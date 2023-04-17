@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaQuoteLeft } from 'react-icons/Fa';
+import { FaQuoteLeft } from 'react-icons/fa';
 import { testimonialCardType } from '../data/types';
 
 interface Props {
