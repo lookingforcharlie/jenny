@@ -1,10 +1,10 @@
 import React from 'react';
-import { AiFillTwitterCircle } from 'react-icons/Ai';
-import { CiPhone } from 'react-icons/Ci';
-import { GrLinkedin } from 'react-icons/Gr';
-import { HiOutlineMail } from 'react-icons/Hi';
-import { RiWechatFill } from 'react-icons/Ri';
-import { SiFacebook } from 'react-icons/Si';
+import { AiFillTwitterCircle } from 'react-icons/ai';
+import { CiPhone } from 'react-icons/ci';
+import { GrLinkedin } from 'react-icons/gr';
+import { HiOutlineMail } from 'react-icons/hi';
+import { RiWechatFill } from 'react-icons/ri';
+import { SiFacebook } from 'react-icons/si';
 import { teamMember } from '../data/types';
 
 interface Props {
